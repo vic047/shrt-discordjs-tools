@@ -1,2 +1,2 @@
 # shrt-discordjs-tools
-A usefule library for working with discord.js
+A useful library for working with discord.js
